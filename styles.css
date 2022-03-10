@@ -1,0 +1,20 @@
+body {
+  background-color: #EFFFFD;
+
+}
+
+h1 {
+  color: hotpink;
+
+}
+
+h3 {
+  color: #66BFBF;
+}
+hr {
+
+  border-style: dotted none none;
+  width: 3%;
+  border-width: 8px;
+  border-color: #D3D3D3;
+}
